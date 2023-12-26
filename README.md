@@ -9,7 +9,7 @@ A website that allows users to share, and interact with posts.
 * MySqL Database
 * Filament 
 
-### Class Digram
+## Class Digram
 ![CMS](https://github.com/bashaer310/Content-Management-System/assets/110439978/cc72a485-c6f0-4a96-9813-f6ea12f4b89a)
 
 
